@@ -7,5 +7,4 @@ object UuidUtil {
     fun getUuid(): String =
         UUID.randomUUID().toString()
 
-
 }
